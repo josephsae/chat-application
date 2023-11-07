@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"poli.persistenciadatostransaccionales.chatapplication.client"},{"l":"poli.persistenciadatostransaccionales.chatapplication.server"}];updateSearchResults();

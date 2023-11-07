@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"poli.persistenciadatostransaccionales.chatapplication.client","l":"Client"},{"p":"poli.persistenciadatostransaccionales.chatapplication.server","l":"ClientHandler"},{"p":"poli.persistenciadatostransaccionales.chatapplication.server","l":"Server"}];updateSearchResults();
